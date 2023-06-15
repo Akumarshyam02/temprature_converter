@@ -1,0 +1,38 @@
+/* Styles for the converter */
+.converter {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .converter label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .converter input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+  }
+  
+  .converter button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .converter p {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
